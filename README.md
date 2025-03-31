@@ -1,5 +1,5 @@
 
-# CliniFact
+# CliniFact 💉
 
 **CliniFact** is a scientific claim dataset created from hypothesis testing results in clinical research.
 
