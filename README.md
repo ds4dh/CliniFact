@@ -1,5 +1,5 @@
 
-# CliniFact 💉: Enhancing LLM performance in clinical research
+# CliniFact 💉: Enhancing LLM Performance in Clinical Research
 
 **CliniFact** is a scientific claim dataset created from hypothesis testing results in clinical research.
 
