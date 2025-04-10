@@ -1,7 +1,8 @@
 
 # CliniFact: Enhancing LLM Performance in Clinical Research
-
-<img src="assets/logo.png" alt="Logo" width="200"/>
+<p align="center">
+<img src="assets/logo.png" alt="Logo" width="500"/>
+</p>
 
 **CliniFact** is a scientific claim dataset created from hypothesis testing results in clinical research.
 
