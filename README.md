@@ -1,5 +1,5 @@
 
-# CliniFact 💉: Enhancing LLM Performance in Clinical Research
+# CliniFact: Enhancing LLM Performance in Clinical Research
 
 ![Your Logo Name](assets/logo.png)
 
